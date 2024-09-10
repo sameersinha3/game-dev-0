@@ -14,10 +14,17 @@
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/HealthWidget.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/healthkit.uasset",
-				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/internal_ground_ao_texture.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/Material_002.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/Material_003.uasset",
-				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/LabelWidget.uasset"
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/LabelWidget.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/internal_ground_ao_texture.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/cprh_guyujg.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/guyujg.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_BaseColor.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_Normal.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_Roughness.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/internal_ground_ao_texture.uasset"
 			]
 		}
 	]
