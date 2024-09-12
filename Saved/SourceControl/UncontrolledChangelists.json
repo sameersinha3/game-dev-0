@@ -12,7 +12,6 @@
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/HealthWidget.uasset",
-				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/healthkit.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/Material_002.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/Material_003.uasset",
@@ -24,6 +23,12 @@
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_BaseColor.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_Normal.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/uv_guyujg_Roughness.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/Material_001.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Textures/Material_002.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/estrellitaaa.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/ojo2.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/royghness.uasset",
+				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
 				"C:/Users/sameers5/Desktop/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/HealthKit/internal_ground_ao_texture.uasset"
 			]
 		}
